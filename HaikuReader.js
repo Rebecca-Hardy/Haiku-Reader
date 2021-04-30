@@ -76,7 +76,7 @@ const ErrorHandler = {
   },
 };
 
-const SKILL_NAME = 'Haiku Time';
+const SKILL_NAME = 'Haiku Reader';
 const GET_FACT_MESSAGE = 'Here's a haiku for you: ';
 const HELP_MESSAGE = 'You can say tell me a haiku...  or, you can say stop... What can I help you with?';
 const HELP_REPROMPT = 'You can ask me to tell a haiku or exit to stop. What can I help you with?';
@@ -85,15 +85,15 @@ const STOP_MESSAGE = 'Okey Dokey - Goodbye!';
 const data = [
   `Warming summertime.
    Lusciously a wine dances.
-   at the old pepper`,
+   At the old pepper`,
 
   `Wintry wintertime.
-   where little, jagged cups sing.
-   whilst watching wine`,
+   Where little, jagged cups sing.
+   Whilst watching wine`,
 
   `Rainy afternoon.
-   A powdered, sooty mug stands.
-   enjoying the wine`,
+   A powdered, sooty dog sits.
+   Enjoying the wine`,
 
   `Shimmering nighttime.
    A boastful pixie natters.
@@ -101,23 +101,23 @@ const data = [
 
   `Unripened garden.
    A small pixie plots quietly.
-   observing the green`,
+   Observing the green`,
 
   `New warm milk today.
    Quite acidic tastes the milk.
-   where is the sweetness?`,
+   Where is the sweetness?`,
 
   `Fancy kitchenette.
-   the sous chefs sample the wine.
-   before the head chef`,
+   The sous chefs sample the wine.
+   Before the head chef`,
 
   `A new aurora.
    The dwarf guzzles sparkling wine.
-   forgetting the beer`,
+   Forgetting the beer`,
 
   `Night in the alleys.
    A sailor merrily sings.
-   hugging some old port`,
+   Hugging some old port`,
 
   `New townspeople.
    Amazed at harvest rejoice.
@@ -129,15 +129,15 @@ const data = [
 
   `Glorious workshop.
    Merrily the brewer tastes.
-   the saké, his craft`,
+   The saké, his craft`,
 
   `Warm the wine cellar.
    Two golden geese are arriving.
-   unleash the sherry`,
+   Unleash the sherry`,
 
   `Glistening lagoon.
    A swan dazzles tonight.
-   sharing the shochu`,
+   Sharing the shochu`,
 
   `New townspeople.
    Amazed at harvest rejoice.
@@ -153,7 +153,7 @@ const data = [
 
   `Trendy coffee bar.
    A lady cautiously sips.
-   the cocktail shimmers `
+   The cocktail shimmers `
 
 
 ];
